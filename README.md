@@ -1,5 +1,13 @@
 # noromanba.github.io
 
+**noromanba** (alt. noro / nrm)
+
+![self-portrait](https://github.com/noromanba.png)
+
+Just a casual coder [★](https://assets-cdn.github.com/images/icons/emoji/unicode/2b50.png)
+
+## links
+
 ```aa
                                                  __
    ____  ____  _________  ____ ___  ____ _____  / /_  ____ _
@@ -8,14 +16,6 @@
 /_/ /_/\____/_/   \____/_/ /_/ /_/\__,_/_/ /_/_.___/\__,_/
 
 ```
-
-**noromanba** (alt. noro / nrm)
-
-![self-portrait](https://github.com/noromanba.png)
-
-Just a casual coder :star:
-
-## contents
 
 - ![icon-hatenalet](http://let.hatelabo.jp/images/favicon.png) **Bookmarklet:** [/noromanba](http://let.hatelabo.jp/noromanba/)
 - ![icon-gist](https://www.google.com/s2/favicons?domain=gist.github.com) **Tech Note/Code:** [/noromanba](https://gist.github.com/noromanba/)
