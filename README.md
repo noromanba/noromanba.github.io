@@ -24,13 +24,13 @@ Just a casual coder <3
 
 ```
 
-![icon-github-repo](https://www.google.com/s2/favicons?domain=github.com) [**repo**](https://github.com/noromanba/noromanba.github.io/)
+![icon-github-repo](https://www.google.com/s2/favicons?domain=github.com) [**repo**](https://github.com/noromanba/noromanba.github.com/)
 
 ----
 
 Copyright (c) noromanba 2017
 
 <!-- favicon fetchers
-![icon](https://www.google.com/s2/favicons?domain=example.com)
 ![icon](https://cdn-ak.favicon.st-hatena.com/?url=https://example.com)
+![icon](https://www.google.com/s2/favicons?domain=example.com)
 -->
