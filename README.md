@@ -8,6 +8,13 @@ Just a casual coder <3
 
 ## links
 
+- ![icon-hatenalet](https://www.google.com/s2/favicons?domain=http://let.hatelabo.jp) **Bookmarklet:** [/noromanba](http://let.hatelabo.jp/noromanba/)
+- ![icon-gist](https://www.google.com/s2/favicons?domain=gist.github.com) **Tech Note/Code:** [/noromanba](https://gist.github.com/noromanba/)
+- ![icon-hatena-group](https://www.google.com/s2/favicons?domain=ptech.g.hatena.ne.jp) **Tech Blog (ja):** [/noromanba](http://ptech.g.hatena.ne.jp/noromanba/)
+- ![icon-hatena](https://www.google.com/s2/favicons?domain=profile.hatena.ne.jp) **Hatena:** [/noromanba](https://profile.hatena.ne.jp/noromanba/)
+
+----
+
 ```aa
                                                  __
    ____  ____  _________  ____ ___  ____ _____  / /_  ____ _
@@ -17,15 +24,9 @@ Just a casual coder <3
 
 ```
 
-- ![icon-hatenalet](https://www.google.com/s2/favicons?domain=http://let.hatelabo.jp) **Bookmarklet:** [/noromanba](http://let.hatelabo.jp/noromanba/)
-- ![icon-gist](https://www.google.com/s2/favicons?domain=gist.github.com) **Tech Note/Code:** [/noromanba](https://gist.github.com/noromanba/)
-- ![icon-hatena-group](https://www.google.com/s2/favicons?domain=ptech.g.hatena.ne.jp) **Tech Blog (ja):** [/noromanba](http://ptech.g.hatena.ne.jp/noromanba/)
-- ![icon-hatena](https://www.google.com/s2/favicons?domain=profile.hatena.ne.jp) **Hatena:** [/noromanba](https://profile.hatena.ne.jp/noromanba/)
-
-----
-
-
 ![icon-github-repo](https://www.google.com/s2/favicons?domain=github.com) [**repo**](https://github.com/noromanba/noromanba.github.io/)
+
+Copyright (c) noromanba 2017
 
 <!-- favicon fetcher
 ![icon](https://www.google.com/s2/favicons?domain=)
