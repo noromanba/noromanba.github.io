@@ -8,21 +8,32 @@ Just a casual coder <3
 
 ## links
 
-- ![icon-hatenalet](https://cdn-ak.favicon.st-hatena.com/?url=http://let.hatelabo.jp) **Bookmarklet:** [/noromanba](http://let.hatelabo.jp/noromanba/)
 - ![icon-gist](https://www.google.com/s2/favicons?domain=gist.github.com) **Tech Note/Code:** [/noromanba](https://gist.github.com/noromanba/)
-- ![icon-hatena-group](https://www.google.com/s2/favicons?domain=ptech.g.hatena.ne.jp) **Tech Blog (ja):** [/noromanba](http://ptech.g.hatena.ne.jp/noromanba/)
+- ![icon-hatenalet](https://cdn-ak.favicon.st-hatena.com/?url=http://let.hatelabo.jp) **Bookmarklet:** [/noromanba](http://let.hatelabo.jp/noromanba/)
+- ![icon-hatena-group](https://www.google.com/s2/favicons?domain=ptech.g.hatena.ne.jp) **Blog (ja):** [/noromanba](http://ptech.g.hatena.ne.jp/noromanba/)
 - ![icon-hatena](https://www.google.com/s2/favicons?domain=profile.hatena.ne.jp) **Hatena:** [/noromanba](https://profile.hatena.ne.jp/noromanba/)
 
 ----
 
+## for nerds
+
 ```aa
-                                                 __
-   ____  ____  _________  ____ ___  ____ _____  / /_  ____ _
-  / __ \/ __ \/ ___/ __ \/ __ `__ \/ __ `/ __ \/ __ \/ __ `/
- / / / / /_/ / /  / /_/ / / / / / / /_/ / / / / /_/ / /_/ /
-/_/ /_/\____/_/   \____/_/ /_/ /_/\__,_/_/ /_/_.___/\__,_/
+                        .
+.-..-..-..-..-.-..-. .-.|-..-.
+' '`-''  `-'' ' '`-`-' '`-'`-`-
 
 ```
+
+### privacy
+
+This page used 3rd party access for fetching favicon, You can block these URL/domain.
+
+```
+https://cdn-ak.favicon.st-hatena.com/?url=
+https://www.google.com/s2/favicons?domain=
+```
+
+### source
 
 ![icon-github-repo](https://www.google.com/s2/favicons?domain=github.com) [**repo**](https://github.com/noromanba/noromanba.github.com/)
 
