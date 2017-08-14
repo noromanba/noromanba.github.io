@@ -1,21 +1,34 @@
-# noromanba.github.io
+# About me
 
-**noromanba** (abbr. noro / nrm)
+## noromanba
+abbr. noro / nrm
 
+<!--
 ![self-portrait](https://github.com/noromanba.png)
+-->
+![self-portrait](https://avatars.githubusercontent.com/u/974716?s=460)
 
-Just a casual coder <3
+Just a casual coder.
 
-## links
+## Outputs
 
 - ![icon-gist](https://www.google.com/s2/favicons?domain=gist.github.com) **Tech Note/Code:** [/noromanba](https://gist.github.com/noromanba/)
 - ![icon-hatenalet](https://cdn-ak.favicon.st-hatena.com/?url=http://let.hatelabo.jp) **Bookmarklet:** [/noromanba](http://let.hatelabo.jp/noromanba/)
 - ![icon-hatena-group](https://www.google.com/s2/favicons?domain=ptech.g.hatena.ne.jp) **Blog (ja):** [/noromanba](http://ptech.g.hatena.ne.jp/noromanba/)
+- ![icon-hatena](https://www.google.com/s2/favicons?domain=h.hatena.ne.jp) **Noise (ja):** [/noromanba](http://h.hatena.ne.jp/noromanba/)
 - ![icon-hatena](https://www.google.com/s2/favicons?domain=profile.hatena.ne.jp) **Hatena:** [/noromanba](https://profile.hatena.ne.jp/noromanba/)
+
+## \<3 Music
+
+Just a listener.
+
+- ![icon](https://www.google.com/s2/favicons?domain=mixcloud.com) **MixCloud** [/noromanba](https://www.mixcloud.com/noromanba/)
+- ![icon](https://www.google.com/s2/favicons?domain=soundcloud.com) **SoundCloud** [/noromanba](https://soundcloud.com/noromanba/)
+- ![icon](https://www.google.com/s2/favicons?domain=bandcamp.com) **Bandcamp** [/noromanba](https://bandcamp.com/noromanba)
 
 ----
 
-## for nerds
+## For nerds
 
 ```aa
                         .
@@ -24,7 +37,7 @@ Just a casual coder <3
 
 ```
 
-### privacy
+### Privacy
 
 This page used 3rd party access for fetching favicon, You can block these URL/domain.
 
@@ -33,7 +46,7 @@ https://cdn-ak.favicon.st-hatena.com/?url=
 https://www.google.com/s2/favicons?domain=
 ```
 
-### source
+### Source
 
 ![icon-github-repo](https://www.google.com/s2/favicons?domain=github.com) [**repo**](https://github.com/noromanba/noromanba.github.com/)
 
@@ -45,3 +58,4 @@ Copyright (c) noromanba 2017
 ![icon](https://cdn-ak.favicon.st-hatena.com/?url=https://example.com)
 ![icon](https://www.google.com/s2/favicons?domain=example.com)
 -->
+
