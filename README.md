@@ -1,7 +1,6 @@
-# About me
+# noromanba.github.io
 
-## noromanba
-abbr. noro / nrm
+**noromanba** (abbr. noro / nrm)
 
 <!--
 ![self-portrait](https://github.com/noromanba.png)
@@ -20,11 +19,11 @@ Just a casual coder.
 
 ## \<3 Music
 
-Just a listener.
-
 - ![icon](https://www.google.com/s2/favicons?domain=mixcloud.com) **MixCloud** [/noromanba](https://www.mixcloud.com/noromanba/)
 - ![icon](https://www.google.com/s2/favicons?domain=soundcloud.com) **SoundCloud** [/noromanba](https://soundcloud.com/noromanba/)
 - ![icon](https://www.google.com/s2/favicons?domain=bandcamp.com) **Bandcamp** [/noromanba](https://bandcamp.com/noromanba)
+
+Just a listener.
 
 ----
 
@@ -58,4 +57,3 @@ Copyright (c) noromanba 2017
 ![icon](https://cdn-ak.favicon.st-hatena.com/?url=https://example.com)
 ![icon](https://www.google.com/s2/favicons?domain=example.com)
 -->
-
