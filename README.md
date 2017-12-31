@@ -51,9 +51,10 @@ https://www.google.com/s2/favicons?domain=
 
 ----
 
-Copyright (c) noromanba 2017
+Copyright (c) noromanba 2018
 
 <!-- favicon fetchers
 ![icon](https://cdn-ak.favicon.st-hatena.com/?url=https://example.com)
 ![icon](https://www.google.com/s2/favicons?domain=example.com)
+![icon:(https://icons.duckduckgo.com/ip2/example.com.ico)
 -->
