@@ -14,7 +14,7 @@ Just a casual coder.
 - ![icon-gist](https://www.google.com/s2/favicons?domain=gist.github.com) **Tech Note/Code:** [/noromanba](https://gist.github.com/noromanba/)
 - ![icon-hatenalet](https://cdn-ak.favicon.st-hatena.com/?url=http://let.hatelabo.jp) **Bookmarklet:** [/noromanba](http://let.hatelabo.jp/noromanba/)
 - ![icon-hatena-group](https://www.google.com/s2/favicons?domain=ptech.g.hatena.ne.jp) **Blog (ja):** [/noromanba](http://ptech.g.hatena.ne.jp/noromanba/)
-- ![icon-hatena](https://www.google.com/s2/favicons?domain=h.hatena.ne.jp) **Noise (ja):** [/noromanba](http://h.hatena.ne.jp/noromanba/)
+- ![icon-hatena](https://www.google.com/s2/favicons?domain=h.hatena.ne.jp) **Microblog (ja):** [/noromanba](http://h.hatena.ne.jp/noromanba/)
 - ![icon-hatena](https://www.google.com/s2/favicons?domain=profile.hatena.ne.jp) **Hatena:** [/noromanba](https://profile.hatena.ne.jp/noromanba/)
 
 ## \<3 Music
