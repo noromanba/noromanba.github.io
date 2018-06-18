@@ -18,17 +18,17 @@ Just a crappy code creator.
 
 <!-- w/ favicon
 -->
-- ![icon-gist](https://cdn-ak.favicon.st-hatena.com/?url=https://gist.github.com) **Tech Note/Code:** [/noromanba](https://gist.github.com/noromanba/)
-- ![icon-hatenalet](https://cdn-ak.favicon.st-hatena.com/?url=http://let.hatelabo.jp) **Bookmarklet:** [/noromanba](http://let.hatelabo.jp/noromanba/)
-- ![icon-hatena-group](https://icons.duckduckgo.com/ip2/ptech.g.hatena.ne.jp.ico) **Blog (ja):** [/noromanba](http://ptech.g.hatena.ne.jp/noromanba/)
-- ![icon-haiku](https://cdn-ak.favicon.st-hatena.com/?url=http://h.hatena.ne.jp) **Microblog (ja):** [/noromanba](http://h.hatena.ne.jp/noromanba/)
-- ![icon-hatena](https://cdn-ak.favicon.st-hatena.com/?url=https://profile.hatena.ne.jp) **Hatena:** [/noromanba](https://profile.hatena.ne.jp/noromanba/)
+- <img alt="icon-gist" src="https://icons.duckduckgo.com/ip2/gist.github.com.ico" width="16px" height="16px"> **Tech Note/Code:** [/noromanba](https://gist.github.com/noromanba/)
+- <img alt="icon-hatenalet" src="https://icons.duckduckgo.com/ip2/let.hatelabo.jp.ico" width="16px" height="16px"> **Bookmarklet:** [/noromanba](http://let.hatelabo.jp/noromanba/)
+- <img alt="icon-hatena-group" src="https://icons.duckduckgo.com/ip2/ptech.g.hatena.ne.jp.ico" width="16px" height="16px"> **Blog (ja):** [/noromanba](http://ptech.g.hatena.ne.jp/noromanba/)
+- <img alt="icon-haiku" src="https://icons.duckduckgo.com/ip2/h.hatena.ne.jp.ico" width="16px" height="16px"> **Microblog (ja):** [/noromanba](http://h.hatena.ne.jp/noromanba/)
+- <img alt="icon-hatena" src="https://icons.duckduckgo.com/ip2/profile.hatena.ne.jp.ico" width="16px" height="16px"> **Hatena:** [/noromanba](https://profile.hatena.ne.jp/noromanba/)
 
 ## \<3 Music
 
-- ![icon-mixcloud](https://cdn-ak.favicon.st-hatena.com/?url=https://www.mixcloud.com) **MixCloud** [/noromanba](https://www.mixcloud.com/noromanba/)
-- ![icon-soundcloud](https://cdn-ak.favicon.st-hatena.com/?url=https://soundcloud.com) **SoundCloud** [/noromanba](https://soundcloud.com/noromanba/)
-- ![icon-bandcamp](https://cdn-ak.favicon.st-hatena.com/?url=https://bandcamp.com) **Bandcamp** [/noromanba](https://bandcamp.com/noromanba)
+- <img alt="icon-mixcloud" src="https://icons.duckduckgo.com/ip2/www.mixcloud.com.ico" width="16px" height="16px"> **MixCloud** [/noromanba](https://www.mixcloud.com/noromanba/)
+- <img alt="icon-soundcloud" src="https://icons.duckduckgo.com/ip2/soundcloud.com.ico" width="16px" height="16px"> **SoundCloud** [/noromanba](https://soundcloud.com/noromanba/)
+- <img alt="icon-bandcamp" src="https://icons.duckduckgo.com/ip2/bandcamp.com.ico" width="16px" height="16px"> **Bandcamp** [/noromanba](https://bandcamp.com/noromanba)
 
 <!-- text only
 ## Outputs
@@ -52,20 +52,17 @@ Just a listener.
 
 ## Privacy
 
-This page used 3rd party service for favicon caching, You can block below URL/domain.
+This page used 3rd party service for favicon-cache fetching, You can block below URL/domain.
 
 
 ```
-https://cdn-ak.favicon.st-hatena.com/?url=https://example.com
+https://icons.duckduckgo.com/ip2/<HOST_NAME>.ico
 ```
 
 no cookie use.
 
-<!-- more better
-- [DuckDuckGo Privacy](https://duckduckgo.com/privacy)
--->
 
-- [Hatena.com Privacy Policy - Hatena](https://www.hatena.ne.jp/rule/privacypolicy#policy13)
+- [DuckDuckGo Privacy](https://duckduckgo.com/privacy)
 - [GitHub Privacy Statement - User Documentation](https://help.github.com/articles/github-privacy-statement/)
 
 ## For geeks
@@ -79,7 +76,7 @@ no cookie use.
 
 ### Source
 
-![icon-repository](https://cdn-ak.favicon.st-hatena.com/?url=https://github.com) [**repo**](https://github.com/noromanba/noromanba.github.com/)
+<img alt="icon-repository" src="https://icons.duckduckgo.com/ip2/gist.github.com.ico" width="16px" height="16px"> [**repo**](https://github.com/noromanba/noromanba.github.com/)
 
 ----
 
@@ -92,7 +89,7 @@ Copyright (c) noromanba 2017-2018
 ![icon](https://icons.duckduckgo.com/ip2/example.com.ico)
 -->
 
-<!-- favicon alignment
+<!-- favicon alignment but can't use in GFM
 <style>
   img[alt^="icon-"] {
     max-width: 16px;
