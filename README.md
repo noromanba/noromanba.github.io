@@ -52,18 +52,29 @@ Just a listener.
 
 ## Privacy
 
-This page used 3rd party service for favicon-cache fetching, You can block below URL/domain.
+This page is cookie free, but access to 3rd party service. You can block these URL/domain.
 
+### favicon
+
+favicon-cache fetching
 
 ```
 https://icons.duckduckgo.com/ip2/<HOST_NAME>.ico
 ```
 
-no cookie use.
+Github Pages access to below
 
+```
+avatars.githubusercontent.com
+cdnjs.cloudflare.com
+```
+
+### Terms
 
 - [DuckDuckGo Privacy](https://duckduckgo.com/privacy)
 - [GitHub Privacy Statement - User Documentation](https://help.github.com/articles/github-privacy-statement/)
+
+----
 
 ## For geeks
 
