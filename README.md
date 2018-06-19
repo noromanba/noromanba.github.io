@@ -52,7 +52,7 @@ Just a listener.
 
 ## Privacy
 
-This clarifypage is cookie free, but access to 3rd party service. You can block these URL/domain.
+This page is cookie free, but used 3rd party services. You can block these URL/domain.
 
 ```
 https://avatars.githubusercontent.com/u/<USER_NUM_ID>?s=<SIZE>
