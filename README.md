@@ -52,21 +52,11 @@ Just a listener.
 
 ## Privacy
 
-This page is cookie free, but access to 3rd party service. You can block these URL/domain.
-
-### favicon
-
-favicon-cache fetching
+This clarifypage is cookie free, but access to 3rd party service. You can block these URL/domain.
 
 ```
+https://avatars.githubusercontent.com/u/<USER_NUM_ID>?s=<SIZE>
 https://icons.duckduckgo.com/ip2/<HOST_NAME>.ico
-```
-
-Github Pages access to below
-
-```
-avatars.githubusercontent.com
-cdnjs.cloudflare.com
 ```
 
 ### Terms
