@@ -81,7 +81,7 @@ https://icons.duckduckgo.com/ip2/<HOST_NAME>.ico
 
 ----
 
-Copyright (c) noromanba 2017-2018
+Copyright (c) noromanba 2017-2019
 
 <!-- favicon fetchers
 ![icon](https://cdn-ak.favicon.st-hatena.com/?url=https://example.com)
