@@ -18,17 +18,17 @@ Just a crappy code creator.
 
 <!-- w/ favicon
 -->
-- <img alt="icon-gist" src="https://icons.duckduckgo.com/ip2/gist.github.com.ico" width="16px" height="16px"> **Tech Note/Code:** [/noromanba](https://gist.github.com/noromanba/)
-- <img alt="icon-hatenalet" src="https://icons.duckduckgo.com/ip2/let.hatelabo.jp.ico" width="16px" height="16px"> **Bookmarklet:** [/noromanba](http://let.hatelabo.jp/noromanba/)
-- <img alt="icon-hatena-group" src="https://icons.duckduckgo.com/ip2/ptech.g.hatena.ne.jp.ico" width="16px" height="16px"> **Blog (ja):** [/noromanba](http://ptech.g.hatena.ne.jp/noromanba/)
-- <img alt="icon-haiku" src="https://icons.duckduckgo.com/ip2/h.hatena.ne.jp.ico" width="16px" height="16px"> **Microblog (ja):** [/noromanba](http://h.hatena.ne.jp/noromanba/)
-- <img alt="icon-hatena" src="https://icons.duckduckgo.com/ip2/profile.hatena.ne.jp.ico" width="16px" height="16px"> **Hatena:** [/noromanba](https://profile.hatena.ne.jp/noromanba/)
+- <img src="https://icons.duckduckgo.com/ip2/gist.github.com.ico" width="16px" height="16px"> **Tech Note/Code:** [/noromanba](https://gist.github.com/noromanba/)
+- <img src="https://icons.duckduckgo.com/ip2/let.hatelabo.jp.ico" width="16px" height="16px"> **Bookmarklet:** [/noromanba](http://let.hatelabo.jp/noromanba/)
+- <img src="https://icons.duckduckgo.com/ip2/ptech.g.hatena.ne.jp.ico" width="16px" height="16px"> **Blog (ja):** [/noromanba](http://ptech.g.hatena.ne.jp/noromanba/)
+- <img src="https://icons.duckduckgo.com/ip2/h.hatena.ne.jp.ico" width="16px" height="16px"> **Microblog (ja):** [/noromanba](http://h.hatena.ne.jp/noromanba/)
+- <img src="https://icons.duckduckgo.com/ip2/profile.hatena.ne.jp.ico" width="16px" height="16px"> **Hatena:** [/noromanba](https://profile.hatena.ne.jp/noromanba/)
 
 ## \<3 Music
 
-- <img alt="icon-mixcloud" src="https://icons.duckduckgo.com/ip2/www.mixcloud.com.ico" width="16px" height="16px"> **MixCloud** [/noromanba](https://www.mixcloud.com/noromanba/)
-- <img alt="icon-soundcloud" src="https://icons.duckduckgo.com/ip2/soundcloud.com.ico" width="16px" height="16px"> **SoundCloud** [/noromanba](https://soundcloud.com/noromanba/)
-- <img alt="icon-bandcamp" src="https://icons.duckduckgo.com/ip2/bandcamp.com.ico" width="16px" height="16px"> **Bandcamp** [/noromanba](https://bandcamp.com/noromanba)
+- <img src="https://icons.duckduckgo.com/ip2/www.mixcloud.com.ico" width="16px" height="16px"> **MixCloud** [/noromanba](https://www.mixcloud.com/noromanba/)
+- <img src="https://icons.duckduckgo.com/ip2/soundcloud.com.ico" width="16px" height="16px"> **SoundCloud** [/noromanba](https://soundcloud.com/noromanba/)
+- <img src="https://icons.duckduckgo.com/ip2/bandcamp.com.ico" width="16px" height="16px"> **Bandcamp** [/noromanba](https://bandcamp.com/noromanba)
 
 <!-- text only
 ## Outputs
@@ -77,7 +77,7 @@ https://icons.duckduckgo.com/ip2/<HOST_NAME>.ico
 
 ### Source
 
-<img alt="icon-repository" src="https://icons.duckduckgo.com/ip2/gist.github.com.ico" width="16px" height="16px"> [**repo**](https://github.com/noromanba/noromanba.github.com/)
+<img src="https://icons.duckduckgo.com/ip2/gist.github.com.ico" width="16px" height="16px"> [**repo**](https://github.com/noromanba/noromanba.github.com/)
 
 ----
 
