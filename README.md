@@ -20,7 +20,7 @@ Just a crappy code creator.
 -->
 - <img src="https://icons.duckduckgo.com/ip2/gist.github.com.ico" width="16px" height="16px"> **Tech Note/Code:** [/noromanba](https://gist.github.com/noromanba/)
 - <img src="https://icons.duckduckgo.com/ip2/let.hatelabo.jp.ico" width="16px" height="16px"> **Bookmarklet:** [/noromanba](http://let.hatelabo.jp/noromanba/)
-- <img src="https://icons.duckduckgo.com/ip2/ptech.g.hatena.ne.jp.ico" width="16px" height="16px"> **Blog (ja):** [/noromanba](http://ptech.g.hatena.ne.jp/noromanba/)
+- ~~<img src="https://icons.duckduckgo.com/ip2/ptech.g.hatena.ne.jp.ico" width="16px" height="16px"> **Blog (ja):** [/noromanba](http://ptech.g.hatena.ne.jp/noromanba/)~~
 - ~~<img src="https://icons.duckduckgo.com/ip2/h.hatena.ne.jp.ico" width="16px" height="16px"> **Microblog (ja):** [/noromanba](http://h.hatena.ne.jp/noromanba/)~~
 - <img src="https://icons.duckduckgo.com/ip2/profile.hatena.ne.jp.ico" width="16px" height="16px"> **Hatena:** [/noromanba](https://profile.hatena.ne.jp/noromanba/)
 
@@ -81,7 +81,7 @@ https://icons.duckduckgo.com/ip2/<HOST_NAME>.ico
 
 ----
 
-Copyright (c) noromanba 2017-2019
+Copyright (c) noromanba 2017-2020
 
 <!-- favicon fetchers
 ![icon](https://cdn-ak.favicon.st-hatena.com/?url=https://example.com)
