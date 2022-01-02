@@ -34,8 +34,8 @@ Just a crappy code creator.
 ## Outputs
 
 - **Tech Note/Code:** [/noromanba](https://gist.github.com/noromanba/)
-- **Bookmarklet:** [/noromanba](http://let.hatelabo.jp/noromanba/)
-- **Blog (ja):** [/noromanba](http://ptech.g.hatena.ne.jp/noromanba/)
+- **Bookmarklet:** [/noromanba](https://let.hatelabo.jp/noromanba/)
+- **Blog (ja):** [/noromanba](https://ptech.g.hatena.ne.jp/noromanba/)
 - **Microblog (ja):** [/noromanba](http://h.hatena.ne.jp/noromanba/)
 - **Hatena:** [/noromanba](https://profile.hatena.ne.jp/noromanba/)
 
@@ -81,7 +81,7 @@ https://icons.duckduckgo.com/ip2/<HOST_NAME>.ico
 
 ----
 
-Copyright (c) noromanba 2017-2020
+Copyright (c) noromanba 2017-2022
 
 <!-- favicon fetchers
 ![icon](https://cdn-ak.favicon.st-hatena.com/?url=https://example.com)
