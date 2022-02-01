@@ -1,0 +1,17 @@
+---
+---
+
+@import "";
+
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --theme-base: dimgray;
+    --theme-font: whitesmoke;
+  }
+}
+
+body {
+  background-color: var(--theme-base);
+  color: var(--theme-font);
+}
