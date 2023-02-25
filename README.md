@@ -27,7 +27,7 @@ Just a crappy code creator.
 
 - <img src="https://icons.duckduckgo.com/ip2/www.mixcloud.com.ico" width="16px" height="16px"> **MixCloud** [/noromanba](https://www.mixcloud.com/noromanba/)
 - <img src="https://icons.duckduckgo.com/ip2/soundcloud.com.ico" width="16px" height="16px"> **SoundCloud** [/noromanba](https://soundcloud.com/noromanba/likes)
-- <img src="https://icons.duckduckgo.com/ip2/heathis.at.ico" width="16px" height="16px"> **hearthis.at** [/noromanba](https://hearthis.at/noromanba/#likes)
+- <img src="https://icons.duckduckgo.com/ip2/hearthis.at.ico" width="16px" height="16px"> **hearthis.at** [/noromanba](https://hearthis.at/noromanba/#likes)
 - <img src="https://icons.duckduckgo.com/ip2/bandcamp.com.ico" width="16px" height="16px"> **Bandcamp** [/noromanba](https://bandcamp.com/noromanba)
 
 <!-- text only
