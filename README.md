@@ -41,7 +41,7 @@ Just a crappy code creator.
 
 ##\<3 Music
 
-- **MixCloud** [/noromanba](https://www.mixcloud.com/noromanba/)
+- **MixCloud** [/noromanba](https://www.mixcloud.com/noromanba/favorites/)
 - **SoundCloud** [/noromanba](https://soundcloud.com/noromanba/likes)
 - **hearthis.at** [/noromanba](https://hearthis.at/noromanba/#likes)
 - **Bandcamp** [/noromanba](https://bandcamp.com/noromanba)
@@ -82,7 +82,7 @@ https://icons.duckduckgo.com/ip2/<HOST_NAME>.ico
 
 ----
 
-Copyright (c) noromanba 2017-2023
+Copyright (c) noromanba 2017-2025
 
 <!-- favicon fetchers
 ![icon](https://cdn-ak.favicon.st-hatena.com/?url=https://example.com)
